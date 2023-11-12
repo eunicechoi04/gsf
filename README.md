@@ -17,6 +17,7 @@ all of this is in your terminal
 # Downloading Dependencies
 
 \*\*You can do this on your local device or in your virtual environment\*\*
+
 `pip install -r requirements.txt`
 
 # For Testing
